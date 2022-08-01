@@ -1,5 +1,12 @@
 # SPRINT-6
-
+# GRUPO 7
+## Integrantes:
+- Karen Ailen Lettieri
+- Pedro Vega
+- John Lucciano Ceron
+- Gustavo Martin
+- Boris Salinas
+- Florencia Sicre
 ## DIAGRAMA DE RELACIONES DE LA TABLA --> 
 
 
